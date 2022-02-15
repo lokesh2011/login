@@ -1,0 +1,47 @@
+body {
+  background: url(bg.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+#container {
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  height: 400px;
+  width: 300px;
+}
+
+.heading {
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.underline {
+  border-top: 5px solid green;
+  width: 100px;
+  margin-bottom: 50px;
+}
+input {
+  width: 80%;
+  margin: 10px auto;
+  background: transparent;
+  border: none;
+  font-size: 20px;
+}
+.underline1 {
+  border-top: 1px solid green;
+  width: 260px;
+}
+button {
+  background: rgba(255, 255, 255, 0);
+  padding: 5px 110px;
+  border: 3px solid green;
+  margin: 30px 0;
+  color: white;
+}
+.fa {
+  color: white;
+}
